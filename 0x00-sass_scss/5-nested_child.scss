@@ -1,0 +1,8 @@
+/* Assigns custom color to .red classes that are first child of body */
+body {
+  color: #3d3d3d;
+
+  >.red {
+    color: #ff0000;
+  }
+}
