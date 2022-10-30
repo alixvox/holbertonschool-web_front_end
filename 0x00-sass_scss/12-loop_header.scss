@@ -1,0 +1,6 @@
+/* Creates header tags using a for loop to assign incrementing font sizes */
+@for $num from 1 through 5 {
+  h#{$num} {
+    font-size: $num + px;
+  }
+}

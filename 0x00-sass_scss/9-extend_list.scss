@@ -1,0 +1,14 @@
+/* Extends .info's stylings to .success and .warning */
+.info {
+  font-size: 12px;
+}
+
+.success {
+  @extend .info;
+  color: #00ff00;
+}
+
+.warning {
+  @extend .info;
+  color: #ff0000;
+}
