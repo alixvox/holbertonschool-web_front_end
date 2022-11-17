@@ -1,0 +1,1 @@
+In this project, I will be learning about JQuery in an advanced format.
