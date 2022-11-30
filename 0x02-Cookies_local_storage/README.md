@@ -1,0 +1,1 @@
+In this project, I will learn about storing cookies and other local storage!
